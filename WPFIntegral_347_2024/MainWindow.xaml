@@ -28,7 +28,7 @@
         <TextBox Name="tbLowerBound" Grid.Row="2" Grid.Column="2" Margin="10 0 0 0"></TextBox>
         <TextBlock Grid.Row="3" Grid.Column="1">Количество разбиений</TextBlock>
         <TextBox Name="tbCount" Grid.Row="3" Grid.Column="2" Margin="10 0 0 0"></TextBox>
-        <Button Name="btnCalculate" Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2" Click="btnCalculate_Click">Посчитать</Button>
+        <Button Name="btnCalculate" Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2" Click="btnCalculate_Click">Посчитать интеграл</Button>
         <TextBlock Grid.Row="4" Grid.Column="1"> Метод рассчёта</TextBlock>
         <ComboBox Name="cmbBoxIntegralType" Margin="10 0 0 0" Grid.Row="4"  Grid.Column="2">
             <ComboBoxItem>Метод средних прямоугольников</ComboBoxItem>
