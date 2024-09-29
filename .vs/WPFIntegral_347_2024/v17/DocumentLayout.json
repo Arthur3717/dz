@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|solutionrelative:wpfintegral_347_2024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|c:\\users\\arthur\\desktop\\wpfintegral_347_2024\\wpfintegral_347_2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|solutionrelative:wpfintegral_347_2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|c:\\users\\arthur\\desktop\\wpfintegral_347_2024\\wpfintegral_347_2024\\classes\\icalculatorintegral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|solutionrelative:wpfintegral_347_2024\\classes\\icalculatorintegral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|c:\\users\\arthur\\desktop\\wpfintegral_347_2024\\wpfintegral_347_2024\\classes\\trapcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|solutionrelative:wpfintegral_347_2024\\classes\\trapcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|c:\\users\\arthur\\desktop\\wpfintegral_347_2024\\wpfintegral_347_2024\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|solutionrelative:wpfintegral_347_2024\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|c:\\users\\arthur\\desktop\\wpfintegral_347_2024\\wpfintegral_347_2024\\classes\\rectanglecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|solutionrelative:wpfintegral_347_2024\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|c:\\users\\arthur\\desktop\\wpfintegral_347_2024\\wpfintegral_347_2024\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|solutionrelative:wpfintegral_347_2024\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|c:\\users\\arthur\\desktop\\wpfintegral_347_2024\\wpfintegral_347_2024\\classes\\icalculatorintegral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|solutionrelative:wpfintegral_347_2024\\classes\\icalculatorintegral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|c:\\users\\arthur\\desktop\\wpfintegral_347_2024\\wpfintegral_347_2024\\classes\\trapcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|solutionrelative:wpfintegral_347_2024\\classes\\trapcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|c:\\users\\arthur\\desktop\\wpfintegral_347_2024\\wpfintegral_347_2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FAF444-4E01-4F62-9EEA-4A25550FF7D8}|WPFIntegral_347_2024\\WPFIntegral_347_2024.csproj|solutionrelative:wpfintegral_347_2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "TrapCalculator.cs",
               "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\WPFIntegral_347_2024\\WPFIntegral_347_2024\\Classes\\TrapCalculator.cs",
               "RelativeDocumentMoniker": "WPFIntegral_347_2024\\Classes\\TrapCalculator.cs",
@@ -51,11 +51,12 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T09:38:22.434Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\WPFIntegral_347_2024\\WPFIntegral_347_2024\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "WPFIntegral_347_2024\\AssemblyInfo.cs",
@@ -68,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\WPFIntegral_347_2024\\WPFIntegral_347_2024\\App.xaml.cs",
               "RelativeDocumentMoniker": "WPFIntegral_347_2024\\App.xaml.cs",
@@ -81,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RectangleCalculator.cs",
               "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\WPFIntegral_347_2024\\WPFIntegral_347_2024\\Classes\\RectangleCalculator.cs",
               "RelativeDocumentMoniker": "WPFIntegral_347_2024\\Classes\\RectangleCalculator.cs",
@@ -94,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ICalculatorIntegral.cs",
               "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\WPFIntegral_347_2024\\WPFIntegral_347_2024\\Classes\\ICalculatorIntegral.cs",
               "RelativeDocumentMoniker": "WPFIntegral_347_2024\\Classes\\ICalculatorIntegral.cs",
@@ -102,7 +103,8 @@
               "RelativeToolTip": "WPFIntegral_347_2024\\Classes\\ICalculatorIntegral.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:06:36.95Z"
+              "WhenOpened": "2024-09-21T09:06:36.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Arthur\\Desktop\\WPFIntegral_347_2024\\WPFIntegral_347_2024\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFIntegral_347_2024\\MainWindow.xaml.cs",
@@ -126,8 +128,7 @@
               "RelativeToolTip": "WPFIntegral_347_2024\\MainWindow.xaml.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAhwCwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T05:16:34.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T05:16:34.348Z"
             }
           ]
         }
