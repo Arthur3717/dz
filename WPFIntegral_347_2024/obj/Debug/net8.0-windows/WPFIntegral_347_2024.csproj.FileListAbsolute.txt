@@ -38,3 +38,4 @@ C:\Users\Arthur\Desktop\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Debug\net8
 C:\Users\Arthur\Desktop\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Debug\net8.0-windows\WPFIntegral_347_2024.pdb
 C:\Users\Arthur\Desktop\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Debug\net8.0-windows\WPFIntegral_347_2024.genruntimeconfig.cache
 C:\Users\Arthur\Desktop\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Debug\net8.0-windows\ref\WPFIntegral_347_2024.dll
+C:\Users\Arthur\Desktop\WPFIntegral_347_2024\WPFIntegral_347_2024\obj\Debug\net8.0-windows\WPFIntegral_347_2024.sourcelink.json
